@@ -1,0 +1,16 @@
+assets/media/
+assets/*.png
+assets/*.pdf
+assets/*_*.png
+assets/01_*
+assets/02_*
+assets/03_*
+assets/04_*
+assets/05_*
+assets/DESKON_*
+assets/dalian-art-info-ip-complete-uhd.pdf
+assets/杨文生个人实习作品集.pdf
+assets/浮光_五款风味_A3海报合集.pdf
+!assets/internship-portfolio.pdf
+!assets/fuguang-posters.pdf
+!assets/dalian-ip.pdf
